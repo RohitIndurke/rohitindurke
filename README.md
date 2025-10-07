@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitindurke
-- 👀 I’m interested in python
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Small project
 - 📫 How to reach me rohitindurke@outlook.com
